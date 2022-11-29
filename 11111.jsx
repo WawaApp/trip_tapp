@@ -13,3 +13,6 @@ let txt1_1 = 'text1_1';
 const txt3 = 'hello';
 
 let txt1_1 = 'text1_1';
+
+
+이건 원격에서 추가된거다 
